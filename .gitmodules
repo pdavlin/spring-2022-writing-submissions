@@ -1,0 +1,3 @@
+[submodule "csci-8920/project/csci-8920-project-proposal"]
+	path = csci-8920/project/csci-8920-project-proposal
+	url = git@github.com:pdavlin/csci-8920-project-proposal.git
